@@ -1,0 +1,25 @@
+{
+  "image": "4.png",
+  "name": "amigos #4",
+  "description": "mi primera colección desde un smart contract.",
+  "external_url": "https://raw.githubusercontent.com/guillermoalex31/first-collection-nft/main/4.png",
+  "attributes": [
+    {
+      "trait_type": "Fondos",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Sombreros",
+      "value": "Mariachi"
+    },
+    {
+      "trait_type": "Cuerpos",
+      "value": "Bronceado"
+    },
+    {
+      "trait_type": "Caras",
+      "value": "Happy"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

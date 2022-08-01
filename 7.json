@@ -1,0 +1,25 @@
+{
+  "image": "7.png",
+  "name": "amigos #7",
+  "description": "mi primera colección desde un smart contract.",
+  "external_url": "https://raw.githubusercontent.com/guillermoalex31/first-collection-nft/main/7.png",
+  "attributes": [
+    {
+      "trait_type": "Fondos",
+      "value": "Tierra"
+    },
+    {
+      "trait_type": "Sombreros",
+      "value": "Gorra De Beisbol"
+    },
+    {
+      "trait_type": "Cuerpos",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Caras",
+      "value": "Enojado"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}
